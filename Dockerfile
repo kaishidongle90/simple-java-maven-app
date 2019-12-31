@@ -1,2 +1,2 @@
-FROM registry.enncloud.cn/sale-order/pushgateway:latest
+FROM registrydev.enncloud.cn/liangmingb/testjava:latest
 CMD sleep 90000000000000000
